@@ -25,12 +25,8 @@
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=corekaraweb&theme=light&layout=normal" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=corekaraweb&theme=light&layout=normal" />
-</div>
-
 ### Stats & Streak
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
 <img src="https://streak-stats.demolab.com/?user=corekaraweb&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
 
 ### Languages & Activity
@@ -38,6 +34,9 @@
 
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
+</div>
+
+
 
 
 
