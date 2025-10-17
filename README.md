@@ -28,7 +28,7 @@
   
 ### Stats & Streak
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
-
+<img src="https://streak-stats.demolab.com/?user=Michael-A-Kuykendall&theme=radical&hide_border=true&background=0d1117&cache_seconds=86400" width="48%" />
 ### Languages & Activity
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corekaraweb&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
 
