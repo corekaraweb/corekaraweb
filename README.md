@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a frontend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @ragchimode](https://twitter.com/ragchimode)
+- 📫 How to reach me: [Twitter - @corekaraweb](https://twitter.com/corekaraweb)
 <br>
 
 
