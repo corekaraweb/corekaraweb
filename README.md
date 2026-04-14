@@ -20,6 +20,15 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail" />
 <br>
 
+## 🏆Licence
+- 応用情報技術者
+- 情報セキュリティスペシャリスト
+- Salesforce認定Agentforce スペシャリスト
+- HTML5プロフェッショナル認定試験レベル2
+- ウェブ解析士
+- G検定
+
+など。
 
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
