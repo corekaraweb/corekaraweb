@@ -3,6 +3,17 @@
   <img src="https://komarev.com/ghpvc/?username=corekaraweb" />
 </div>
 
+# らぐち（村上英輝）
+
+**WordPress | SEO**
+
+[![Email](https://img.shields.io/badge/Email-info%40corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
+[![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
+[![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
+[![Qiita](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://qiita.com/corekaraweb)
+[![note](https://img.shields.io/badge/note-ragmode?style=for-the-badge&logo=note&logoColor=white)](https://note.com/ragmode)
+
+
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
@@ -17,7 +28,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws" />
 <br>
 
 ## 🏆Licence
