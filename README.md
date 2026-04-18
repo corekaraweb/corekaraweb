@@ -5,7 +5,7 @@
 
 # らぐち
 
-**Webエンジニア（WordPress & SEO）**
+**Web系エンジニア（WordPress & SEO）**
 
 [![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
