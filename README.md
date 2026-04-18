@@ -10,7 +10,7 @@
 [![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
-[![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://qiita.com/corekaraweb)
+[![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-ragmode?style=for-the-badge&logo=note&logoColor=white)](https://note.com/ragmode)
 
 
@@ -21,7 +21,7 @@
 - 🧑‍💻 WordPress・SEOをメインとしたWebエンジニア
 - 🌱 立命館大学理工学部物理学科 ⇒ 放送大学 社会と産業 ⇒ 生活と福祉 ⇒ 心理と教育
 - ✨ 社会福祉士養成課程（通信）卒業
-- 🖥️ Web系プログラミング言語やサーバーサイドの技術を勉強中
+- 🖥️ Web系プログラミング言語やサーバーサイドの技術を探求中
 - 📫 [X - @corekaraweb](https://x.com/corekaraweb)
   
 <br>
