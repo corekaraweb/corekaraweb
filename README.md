@@ -14,7 +14,7 @@
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-ragmode?style=for-the-badge&logo=note&logoColor=white)](https://note.com/ragmode)
 
-
+---
 
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
@@ -27,6 +27,7 @@
   
 <br>
 
+---
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
@@ -34,6 +35,8 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws" />
 <br>
+
+---
 
 ## 🏆Licence
 - 応用情報技術者
@@ -45,19 +48,21 @@
 
 など。
 
+---
+
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left">
   
 ### Stats & Streak
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="65%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="70%" />
 
 ### Languages & Activity
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corekaraweb&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="65%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corekaraweb&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="70%" />
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="65%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="70%" />
 </div>
 
 <!--
