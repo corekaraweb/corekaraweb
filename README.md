@@ -5,7 +5,7 @@
 
 # らぐち（村上英輝）
 
-**WordPress | SEO**
+**Webエンジニア（WordPress & SEO）**
 
 [![Email](https://img.shields.io/badge/Email-info%40corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
@@ -18,9 +18,12 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 I am a frontend engineer.
-- 🌱 I am currently studying programming.
-- 📫 How to reach me: [Twitter - @corekaraweb](https://twitter.com/corekaraweb)
+- 🧑‍💻 WordPress・SEOをメインとしたWebエンジニア
+- 🌱 立命館大学理工学部物理学科 ⇒ 放送大学 社会と産業 ⇒ 生活と福祉 ⇒ 心理と教育
+- ✨ 社会福祉士養成課程（通信）卒業
+- 🖥️ Web系プログラミング言語やサーバーサイドの技術を勉強中
+- 📫 [X - @corekaraweb](https://x.com/corekaraweb)
+  
 <br>
 
 
