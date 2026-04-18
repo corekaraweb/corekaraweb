@@ -3,7 +3,7 @@
   <img src="https://komarev.com/ghpvc/?username=corekaraweb" />
 </div>
 
-# らぐち（村上英輝）
+# らぐち
 
 **Webエンジニア（WordPress & SEO）**
 
