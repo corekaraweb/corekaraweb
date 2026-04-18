@@ -50,13 +50,13 @@
 <div align="left">
   
 ### Stats & Streak
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=corekaraweb&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="70%" />
 
 ### Languages & Activity
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corekaraweb&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="100%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=corekaraweb&layout=compact&theme=radical&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=86400" width="70%" />
 
 ### Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="70%" />
 </div>
 
 <!--
