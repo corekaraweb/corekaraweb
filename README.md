@@ -9,10 +9,9 @@
 
 [![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
-[![Blog](https://img.shields.io/badge/Blog-fukushi--itlabo.net-yellow?style=for-the-badge&logo=blog&logoColor=white)](https://fukushi-itlabo.net/)<br>
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
-[![note](https://img.shields.io/badge/note-ragmode?style=for-the-badge&logo=note&logoColor=white)](https://note.com/ragmode)
+[![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
 
 ---
 
