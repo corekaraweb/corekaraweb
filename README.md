@@ -19,6 +19,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 WordPress・SEOをメインとしたWeb系エンジニア
+- 🏋️ リスキリングして出来ることを増やすためにいろいろ勉強中
 - 🌱 立命館大学理工学部物理学科中退 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - ✨ 社会福祉士養成課程（通信）卒業
 - 🖥️ Web系プログラミング言語やサーバーサイドの技術を探求中
