@@ -58,11 +58,12 @@
 
 ---
 
-## 公開中リポジトリ
+## 📈公開中リポジトリ
 | リポジトリ名 | 説明 |
 |:----------|:---------------------|
-| [デイトラWeb制作コース初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータです。　[確認する](https://www)　 |
+| [デイトラWeb制作コース初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータです。　[動作を見る](https://www)　 |
 
+---
 
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
