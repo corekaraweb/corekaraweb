@@ -53,8 +53,8 @@
 
 ## 📝Zenn New Articles
 
-- 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
 - 【2025年12月18日】[2025年にSalesforce関係で学んだこと](https://zenn.dev/corekaraweb/articles/9a8ad400bfcd8f)
+- 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
 
 ---
 
