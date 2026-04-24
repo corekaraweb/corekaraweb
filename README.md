@@ -63,7 +63,8 @@
 |:----------|:---------------------|
 | [デイトラWeb制作初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
 | [デイトラWeb制作初級編2](https://github.com/corekaraweb/daytra_shokyuu02) | Web制作コース初級編2「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
-| [デイトラWeb制作中級編1](https://github.com/corekaraweb/daytra_chuukyuu01) | Web制作コース中級編1「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01//)　 |
+| [デイトラWeb制作中級編1](https://github.com/corekaraweb/daytra_chuukyuu01) | Web制作コース中級編1「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01/)　 |
+| [デイトラWeb制作中級編2](https://github.com/corekaraweb/daytra_chuukyuu02) | Web制作コース中級編2「sobolon」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu02/)　 |
 
 ---
 <!-- 4. GitHub ユーザー名を変更, 2箇所 -->
