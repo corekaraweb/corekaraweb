@@ -24,7 +24,7 @@
 - ✨ 社会福祉士養成課程（通信）卒業
 - 📫 [X - @corekaraweb](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
-- 🖋 [最新の勉強ログ](https://github.com/corekaraweb/study-log/blob/main/202604studylog.md)
+- 🖋 [最新の勉強ログ(2026.04)](https://github.com/corekaraweb/study-log/blob/main/202604studylog.md)
   
 <br>
 
@@ -34,7 +34,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=14&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws" />
 <br>
 
 ---
