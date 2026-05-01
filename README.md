@@ -24,7 +24,7 @@
 - ✨ 社会福祉士養成課程（通信）卒業
 - 📫 [X - @corekaraweb](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
-- 🖋 [最新の勉強ログ(2026.04)](https://github.com/corekaraweb/study-log/blob/main/202604studylog.md)
+- 🖋 [最新の勉強ログ(2026.05)](https://github.com/corekaraweb/study-log/blob/main/202605studylog.md)
   
 <br>
 
