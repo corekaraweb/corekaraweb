@@ -42,7 +42,10 @@
 ## 🏆Licence
 - 応用情報技術者
 - 情報セキュリティスペシャリスト
+- Salesforce認定Platformアプリケーションビルダー
+- Salesforce認定Sales Cloudコンサルタント
 - Salesforce認定Agentforce スペシャリスト
+- Java Bronze
 - HTML5プロフェッショナル認定試験レベル2
 - 認定SEOコンサルタント
 - ウェブ解析士
