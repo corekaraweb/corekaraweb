@@ -40,8 +40,12 @@
 ---
 
 ## 🏆Licence
+- ITパスポート
+- 基本情報技術者
+- 情報セキュリティマネジメント
 - 応用情報技術者
 - 情報セキュリティスペシャリスト
+- Salesforce認定Platformアドミニストレーター
 - Salesforce認定Platformアプリケーションビルダー
 - Salesforce認定Sales Cloudコンサルタント
 - Salesforce認定Agentforce スペシャリスト
