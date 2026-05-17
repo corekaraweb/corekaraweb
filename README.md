@@ -41,7 +41,7 @@
 
 ## 🏆Licence
 
-| 分類 | 資格名 |
+| 　　分類 | 資格名 |
 |:----------|:---------------------|
 | 　　IPA国家試験　　| ITパスポート<br>基本情報技術者<br>情報セキュリティマネジメント<br>応用情報技術者<br>情報セキュリティスペシャリスト |
 | 　　IT系資格　　 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Bronze<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート |
