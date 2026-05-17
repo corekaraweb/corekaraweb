@@ -40,30 +40,13 @@
 ---
 
 ## 🏆Licence
-- ITパスポート
-- 基本情報技術者
-- 情報セキュリティマネジメント
-- 応用情報技術者
-- 情報セキュリティスペシャリスト
-- Salesforce認定Platformアドミニストレーター
-- Salesforce認定Platformアプリケーションビルダー
-- Salesforce認定Sales Cloudコンサルタント
-- Salesforce認定Agentforce スペシャリスト
-- Java Bronze
-- HTML5プロフェッショナル認定試験レベル2
-- MOS Expert認定
-- 認定SEOコンサルタント
-- ウェブ解析士
-- G検定
-- 生成AIパスポート
-- 日商簿記2級
-- FP2級
-- AFP
-- 健康経営アドバイザー
-- 両立支援コーディネーター
-- 社会福祉主事任用資格
 
-など。
+| 分類 | 資格名 |
+|:----------|:---------------------|
+| IPA国家試験| ITパスポート<br>基本情報技術者<br>情報セキュリティマネジメント<br>応用情報技術者<br>情報セキュリティスペシャリスト |
+| IT系資格 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Bronze<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート |
+| ビジネス系資格 | 日商簿記2級<br>FP2級<br>AFP<br>健康経営アドバイザー<br>両立支援コーディネーター<br>ビジネス実務法務検定2級<br>メンタルヘルスマネジメント検定Ⅱ種<br>年金アドバイザー3級<br>社会福祉主事任用資格 |
+| 趣味 | カラーコーディネーター3級<br>フォトマスター検定2級<br>|
 
 --- 
 ## 📝Qiita New Articles（技術書の読書感想文）
