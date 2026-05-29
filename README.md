@@ -56,7 +56,7 @@
 ---
 
 ## 📝Zenn New Articles（技術情報のまとめ）
-
+- 【2026年05月29日】[GitでPush済みのコミットのメッセージを後から変更する方法](https://zenn.dev/corekaraweb/articles/80a8d86f244664)
 - 【2026年05月14日】[Google Chromeのデベロッパーツールで印刷用CSSデザインを確認する方法](https://zenn.dev/corekaraweb/articles/534defe2ca77f0)
 - 【2025年12月18日】[2025年にSalesforce関係で学んだこと](https://zenn.dev/corekaraweb/articles/9a8ad400bfcd8f)
 - 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
