@@ -1,4 +1,3 @@
-<!-- 1. GitHub ユーザー名を変更 -->
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=corekaraweb" />
 </div>
@@ -15,7 +14,6 @@
 
 ---
 
-<!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 WordPress・SEOをメインとしたWeb系エンジニア
@@ -30,8 +28,6 @@
 
 ---
 
-<!-- 3. 好きな技術スタックに変更 -->
-<!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws" />
@@ -67,10 +63,10 @@
 | リポジトリ名 | 説明 |
 |:----------|:---------------------|
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
-| [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Gold SE17 紫本](https://github.com/corekaraweb/javagoldse17purple) | Java Gold 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 黒本](https://github.com/corekaraweb/javasilverse17black) | Java Silver 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 紫本](https://github.com/corekaraweb/javasilverse17purple) | Java Silver 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Gold SE17 紫本](https://github.com/corekaraweb/javagoldse17purple) | Java Gold SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Silver SE17 黒本](https://github.com/corekaraweb/javasilverse17black) | Java Silver SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Silver SE17 紫本](https://github.com/corekaraweb/javasilverse17purple) | Java Silver SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
 | [Java Bronze 黒本](https://github.com/corekaraweb/javasebronzeblack) | Java Bronze 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
 | [デイトラWeb制作初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
 | [デイトラWeb制作初級編2](https://github.com/corekaraweb/daytra_shokyuu02) | Web制作コース初級編2「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
@@ -79,8 +75,6 @@
 | [デイトラWeb制作中級編3](https://github.com/corekaraweb/daytra_chuukyuu03) | Web制作コース中級編3「e-tiga」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu03/)　 |
 
 ---
-<!-- 4. GitHub ユーザー名を変更, 2箇所 -->
-<!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left">
   
@@ -93,18 +87,3 @@
 ### Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=corekaraweb&theme=github-compact&bg_color=0d1117&hide_border=true&point=ff6e96&line=ff6e96&color=ffffff" width="70%" />
 </div>
-
-<!--
-This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
