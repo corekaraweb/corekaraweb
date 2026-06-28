@@ -63,16 +63,19 @@
 | リポジトリ名 | 説明 |
 |:----------|:---------------------|
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
-| [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Gold SE17 紫本](https://github.com/corekaraweb/javagoldse17purple) | Java Gold SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 黒本](https://github.com/corekaraweb/javasilverse17black) | Java Silver SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 紫本](https://github.com/corekaraweb/javasilverse17purple) | Java Silver SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Bronze 黒本](https://github.com/corekaraweb/javasebronzeblack) | Java Bronze 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
 | [デイトラWeb制作初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
 | [デイトラWeb制作初級編2](https://github.com/corekaraweb/daytra_shokyuu02) | Web制作コース初級編2「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
 | [デイトラWeb制作中級編1](https://github.com/corekaraweb/daytra_chuukyuu01) | Web制作コース中級編1「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01/)　 |
 | [デイトラWeb制作中級編2](https://github.com/corekaraweb/daytra_chuukyuu02) | Web制作コース中級編2「sobolon」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu02/)　 |
 | [デイトラWeb制作中級編3](https://github.com/corekaraweb/daytra_chuukyuu03) | Web制作コース中級編3「e-tiga」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu03/)　 |
+
+<!--
+| [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Gold SE17 紫本](https://github.com/corekaraweb/javagoldse17purple) | Java Gold SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Silver SE17 黒本](https://github.com/corekaraweb/javasilverse17black) | Java Silver SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Silver SE17 紫本](https://github.com/corekaraweb/javasilverse17purple) | Java Silver SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
+| [Java Bronze 黒本](https://github.com/corekaraweb/javasebronzeblack) | Java Bronze 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
+-->
 
 ---
 ## 🏃‍♀️ Activities
