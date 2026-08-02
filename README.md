@@ -7,7 +7,6 @@
 **Web系エンジニア（WordPress & SEO）**
 
 [![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
-[![Website](https://img.shields.io/badge/Website-corekara--web.net-green?style=for-the-badge&logo=safari&logoColor=white)](https://corekara-web.net)
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
@@ -20,7 +19,6 @@
 - 🖥️ Web系プログラミング言語やサーバーサイドの技術など幅広く探求中
 - 🌱 立命館大学理工学部物理学科中退 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - ✨ 社会福祉士養成課程（通信）卒業
-- 📫 [X - @corekaraweb](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
 - 🖋 [最新の勉強ログ(2026.07)](https://github.com/corekaraweb/study-log/blob/main/202607studylog.md)
   
