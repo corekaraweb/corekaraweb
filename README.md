@@ -51,6 +51,7 @@
 ---
 
 ## 📝Zenn New Articles（技術情報のまとめ）
+- 【2026年08月11日】[エックスサーバードメインで取得したドメインをさくらのVPSの独自ドメインとして利用する方法(https://zenn.dev/corekaraweb/articles/ca0327324289cc)]
 - 【2026年07月26日】[GitHubで公開されているリポジトリを自分のPCでクローンするまで](https://zenn.dev/corekaraweb/articles/735b5d45b7f14e)
 - 【2026年05月29日】[GitでPush済みのコミットのメッセージを後から変更する方法](https://zenn.dev/corekaraweb/articles/80a8d86f244664)
 - 【2026年05月14日】[Google Chromeのデベロッパーツールで印刷用CSSデザインを確認する方法](https://zenn.dev/corekaraweb/articles/534defe2ca77f0)
