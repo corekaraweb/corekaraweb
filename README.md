@@ -81,10 +81,13 @@
 
 ---
 ## 🏃‍♀️ Activities
+<!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
 <div align="left">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=0)
+<img style="width:100%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
+<div style="width:100%; display:flex; justify-content:space-between;">
+<img style="width:49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
+<img style="width:49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
+<img style="width:49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
+<img style="width:49%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
+</div>
 </div>
