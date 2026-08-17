@@ -41,7 +41,7 @@
 | 分類　　 | 資格名 |
 |:----------|:---------------------|
 | IPA国家試験 | ITパスポート<br>基本情報技術者<br>情報セキュリティマネジメント<br>応用情報技術者<br>情報セキュリティスペシャリスト |
-| IT系資格 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Silver SE17<br>AWS AIF<br>AWS CLF<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート<br>ウェブライティング実務士<br>MOS 2019 Expert 認定 |
+| IT系資格 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Silver SE17<br>AWS AIプラクティショナー<br>AWS クラウドプラクティショナー<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート<br>ウェブライティング実務士<br>MOS 2019 Expert 認定 |
 | ビジネス系資格 | 日商簿記2級<br>ビジネス会計検定2級<br>2級ファイナンシャルプランニング技能士<br>AFP<br>知的財産管理技能検定3級<br>健康経営アドバイザー<br>両立支援コーディネーター<br>ビジネス実務法務検定2級<br>メンタルヘルスマネジメント検定Ⅱ種<br>年金アドバイザー3級<br>社会福祉主事任用資格 |
 | 趣味 | 心理学検定2級<br>カラーコーディネーター3級<br>フォトマスター検定2級<br>|
 
