@@ -7,10 +7,12 @@
 **Web系エンジニア（WordPress & SEO）**
 
 [![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
+[![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)<br>
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
-
+[![X](https://img.shields.io/badge/X-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb/)
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
@@ -19,6 +21,7 @@
 - 🖥️ Web系プログラミング言語やサーバーサイドの技術など幅広く探求中
 - 🌱 立命館大学理工学部物理学科中退 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - ✨ 社会福祉士養成課程（通信）卒業
+- ☑️ [X（旧Twitter）](https://x.com/corekaraweb/)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
 - 🖋 [最新の勉強ログ(2026.08)](https://github.com/corekaraweb/study-log/blob/main/202608studylog.md)
   
