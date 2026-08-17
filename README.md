@@ -6,7 +6,9 @@
 
 **Web系エンジニア（WordPress & SEO）**
 
-[![Email](https://img.shields.io/badge/Email-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)[![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)[![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)<br>
+[![Email](https://img.shields.io/badge/Mail-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
+[![WebSite](https://img.shields.io/badge/Web-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)<br>
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
