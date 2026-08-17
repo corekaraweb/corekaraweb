@@ -11,7 +11,7 @@
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
 [![X](https://img.shields.io/badge/X-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb/)<br>
-[![WebSite](https://img.shields.io/badge/Web-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
+[![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)
 
 ---
