@@ -31,7 +31,7 @@
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=12&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws,laravel,ts,ubuntu,vscode" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=11&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws,laravel,ts,ubuntu,windows" />
 <br>
 
 ---
