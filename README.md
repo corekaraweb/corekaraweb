@@ -70,11 +70,11 @@
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
 | [写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 私的な写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
 | [ポートフォリオ](https://github.com/corekaraweb/portofolio_ts) | React+TypeScriptで構築したポートフォリオサイトのリポジトリです。[動作を見る](https://hideki-murakami.pro/) |
-| [デイトラWeb制作初級編1](https://github.com/corekaraweb/daytra_shokyuu01) | Web制作コース初級編1「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
-| [デイトラWeb制作初級編2](https://github.com/corekaraweb/daytra_shokyuu02) | Web制作コース初級編2「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
-| [デイトラWeb制作中級編1](https://github.com/corekaraweb/daytra_chuukyuu01) | Web制作コース中級編1「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01/)　 |
-| [デイトラWeb制作中級編2](https://github.com/corekaraweb/daytra_chuukyuu02) | Web制作コース中級編2「sobolon」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu02/)　 |
-| [デイトラWeb制作中級編3](https://github.com/corekaraweb/daytra_chuukyuu03) | Web制作コース中級編3「e-tiga」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu03/)　 |
+| [（模写）スイーツサイト](https://github.com/corekaraweb/daytra_shokyuu01) | 「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
+| [（模写）ポートフォリオサイト](https://github.com/corekaraweb/daytra_shokyuu02) | 「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
+| [（模写）OHA!](https://github.com/corekaraweb/daytra_chuukyuu01) | 「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01/)　 |
+| [（模写）sobolon](https://github.com/corekaraweb/daytra_chuukyuu02) | 「sobolon」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu02/)　 |
+| [（模写）e-tiga](https://github.com/corekaraweb/daytra_chuukyuu03) | 「e-tiga」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu03/)　 |
 
 <!--
 | [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
