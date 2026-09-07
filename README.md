@@ -68,7 +68,7 @@
 | リポジトリ名 | 説明 |
 |:----------|:---------------------|
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
-| [写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 私的な写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
+| [写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
 | [ポートフォリオ](https://github.com/corekaraweb/portofolio_ts) | React+TypeScriptで構築したポートフォリオサイトのリポジトリです。[動作を見る](https://hideki-murakami.pro/) |
 | [（サンプル）スイーツサイト](https://github.com/corekaraweb/daytra_shokyuu01) | 「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
 | [（サンプル）ポートフォリオサイト](https://github.com/corekaraweb/daytra_shokyuu02) | 「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
