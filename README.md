@@ -55,6 +55,7 @@
 ---
 
 ## 📝Zenn New Articles（技術情報のまとめ）
+- 【2026年09月07日】[Java Gold SE17を受験してきた](https://zenn.dev/corekaraweb/articles/d2576a68e7b95a)
 - 【2026年08月11日】[エックスサーバードメインで取得したドメインをさくらのVPSの独自ドメインとして利用する方法](https://zenn.dev/corekaraweb/articles/ca0327324289cc)
 - 【2026年07月26日】[GitHubで公開されているリポジトリを自分のPCでクローンするまで](https://zenn.dev/corekaraweb/articles/735b5d45b7f14e)
 - 【2026年05月29日】[GitでPush済みのコミットのメッセージを後から変更する方法](https://zenn.dev/corekaraweb/articles/80a8d86f244664)
