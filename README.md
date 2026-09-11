@@ -64,26 +64,13 @@
 - 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
 
 ---
-
 ## 📈公開中リポジトリ
+
 | リポジトリ名 | 説明 |
 |:----------|:---------------------|
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
 | [（個人開発）写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
 | [（個人開発）ポートフォリオ](https://github.com/corekaraweb/portofolio_ts) | React+TypeScriptで構築したポートフォリオサイトのリポジトリです。[動作を見る](https://hideki-murakami.pro/) |
-| [（コーディングサンプル）スイーツサイト](https://github.com/corekaraweb/daytra_shokyuu01) | 「スイーツサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu01/)　 |
-| [（コーディングサンプル）ポートフォリオサイト](https://github.com/corekaraweb/daytra_shokyuu02) | 「ポートフォリオサイト」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_shokyuu02/)　 |
-| [（コーディングサンプル）OHA!](https://github.com/corekaraweb/daytra_chuukyuu01) | 「OHA!」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu01/)　 |
-| [（コーディングサンプル）sobolon](https://github.com/corekaraweb/daytra_chuukyuu02) | 「sobolon」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu02/)　 |
-| [（コーディングサンプル）e-tiga](https://github.com/corekaraweb/daytra_chuukyuu03) | 「e-tiga」のコーディングデータ。　[動作を見る](https://corekaraweb.github.io/daytra_chuukyuu03/)　 |
-
-<!--
-| [Java Gold SE17 黒本](https://github.com/corekaraweb/javagoldse17black) | Java Gold SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Gold SE17 紫本](https://github.com/corekaraweb/javagoldse17purple) | Java Gold SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 黒本](https://github.com/corekaraweb/javasilverse17black) | Java Silver SE17 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Silver SE17 紫本](https://github.com/corekaraweb/javasilverse17purple) | Java Silver SE17 紫本を参考に実装したソースコードを管理しているリポジトリです。 |
-| [Java Bronze 黒本](https://github.com/corekaraweb/javasebronzeblack) | Java Bronze 黒本を参考に実装したソースコードを管理しているリポジトリです。 |
--->
 
 ---
 ## 🏃‍♀️ Activities
