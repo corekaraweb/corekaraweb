@@ -63,6 +63,7 @@
 - 【2025年12月18日】[2025年にSalesforce関係で学んだこと](https://zenn.dev/corekaraweb/articles/9a8ad400bfcd8f)
 - 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
 
+<!--
 ---
 ## 📈公開中リポジトリ
 
@@ -71,7 +72,7 @@
 | [Study-Log（勉強ログ）](https://github.com/corekaraweb/study-log) | ITスキルや資格学習の記録や開発日記のためのリポジトリです。 |
 | [（個人開発）写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
 | [（個人開発）ポートフォリオ](https://github.com/corekaraweb/portofolio_ts) | React+TypeScriptで構築したポートフォリオサイトのリポジトリです。[動作を見る](https://hideki-murakami.pro/) |
-
+-->
 ---
 ## 🏃‍♀️ Activities
 <!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
