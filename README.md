@@ -10,7 +10,6 @@
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
-[![X](https://img.shields.io/badge/X-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb/)<br>
 [![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)
 
@@ -20,9 +19,7 @@
 
 - 🧑‍💻 WordPress・SEOをメインとしたWeb系エンジニア
 - 🖥️ Web系プログラミング言語やサーバーサイドの技術など幅広く探求中
-- 🌱 立命館大学理工学部物理学科中退 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
-- ✨ 社会福祉士養成課程（通信）卒業
-- ☑️ [X（旧Twitter）](https://x.com/corekaraweb/)
+- 🗝️ テクノロジーの力で社会課題を解決することに興味があります
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
 - 🖋 [最新の勉強ログ(2026.09)](https://github.com/corekaraweb/study-log/blob/main/202609studylog.md)
   
@@ -77,11 +74,11 @@
 ## 🏃‍♀️ Activities
 <!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
 <div align="left">
-<img style="width:80%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
-<div style="width:80%; display:flex; justify-content:space-between;">
-<img style="width:40%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
-<img style="width:40%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
-<img style="width:40%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
-<img style="width:40%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
+<img style="width:88%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
+<div style="width:88%; display:flex; justify-content:space-between;">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
 </div>
 </div>
