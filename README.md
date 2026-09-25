@@ -34,17 +34,18 @@
 <br>
 
 ---
+## 🏃‍♀️ Activities
+<!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
+<div align="left">
+<img style="width:88%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
+<div style="width:88%; display:flex; justify-content:space-between;">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
+<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
+</div>
+</div>
 
-## 🏆Licence
-
-| 分類　　 | 資格名 |
-|:----------|:---------------------|
-| IPA国家試験 | ITパスポート<br>基本情報技術者<br>情報セキュリティマネジメント<br>応用情報技術者<br>情報セキュリティスペシャリスト |
-| IT系資格 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Gold SE17<br>AWS AIプラクティショナー<br>AWS クラウドプラクティショナー<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート<br>ウェブライティング実務士<br>MOS 2019 Expert 認定 |
-| ビジネス系資格 | 日商簿記2級<br>ビジネス会計検定2級<br>2級ファイナンシャルプランニング技能士<br>AFP<br>知的財産管理技能検定3級<br>健康経営アドバイザー<br>両立支援コーディネーター<br>ビジネス実務法務検定2級<br>メンタルヘルスマネジメント検定Ⅱ種<br>年金アドバイザー3級<br>社会福祉主事任用資格 |
-| その他 | 心理学検定2級<br>カラーコーディネーター3級<br>フォトマスター検定2級<br>|
-
---- 
 ## 📝Qiita New Articles（技術書の読書感想文）
 
 - 【2026年07月10日】[【読書感想文】『AI時代に勝つ！LLMO対策の教科書 ～新・集客メソッド～』](https://qiita.com/corekaraweb/items/4fa670a055def86a0a71)
@@ -71,15 +72,16 @@
 | [（個人開発）写真まみれ](https://github.com/corekaraweb/photomamire_wp) | 写真ブログ「写真まみれ」のWordPressテーマファイルのリポジトリです。 [動作を見る](https://photo-mamire.jp/)|
 | [（個人開発）ポートフォリオ](https://github.com/corekaraweb/portofolio_ts) | React+TypeScriptで構築したポートフォリオサイトのリポジトリです。[動作を見る](https://hideki-murakami.pro/) |
 -->
+
 ---
-## 🏃‍♀️ Activities
-<!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
-<div align="left">
-<img style="width:88%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
-<div style="width:88%; display:flex; justify-content:space-between;">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
-</div>
-</div>
+
+## 🏆Licence
+
+| 分類　　 | 資格名 |
+|:----------|:---------------------|
+| IPA国家試験 | ITパスポート<br>基本情報技術者<br>情報セキュリティマネジメント<br>応用情報技術者<br>情報セキュリティスペシャリスト |
+| IT系資格 | Salesforce認定Platformアドミニストレーター<br>Salesforce認定Platformアプリケーションビルダー<br>Salesforce認定Sales Cloudコンサルタント<br>Salesforce認定Agentforce スペシャリスト<br>Java Gold SE17<br>AWS AIプラクティショナー<br>AWS クラウドプラクティショナー<br>HTML5プロフェッショナル認定試験レベル2<br>認定SEOコンサルタント<br>SEO検定1級<br>ウェブ解析士<br>G検定<br>生成AIパスポート<br>ウェブライティング実務士<br>MOS 2019 Expert 認定 |
+| ビジネス系資格 | 日商簿記2級<br>ビジネス会計検定2級<br>2級ファイナンシャルプランニング技能士<br>AFP<br>知的財産管理技能検定3級<br>健康経営アドバイザー<br>両立支援コーディネーター<br>ビジネス実務法務検定2級<br>メンタルヘルスマネジメント検定Ⅱ種<br>年金アドバイザー3級<br>社会福祉主事任用資格 |
+| その他 | 心理学検定2級<br>カラーコーディネーター3級<br>フォトマスター検定2級<br>|
+
+--- 
