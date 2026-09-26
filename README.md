@@ -51,6 +51,7 @@
 
 ## 📝Qiita New Articles（技術書の読書感想文）
 
+- 【2026年09月26日】[【読書感想文】『オラクル認定資格教科書 Java プログラマ Gold SE17』](https://qiita.com/corekaraweb/items/f5b039d67891edd661c1)
 - 【2026年07月10日】[【読書感想文】『AI時代に勝つ！LLMO対策の教科書 ～新・集客メソッド～』](https://qiita.com/corekaraweb/items/4fa670a055def86a0a71)
 - 【2026年05月13日】[【読書感想文】『新版 SEを極める 50の鉄則 入門編』](https://qiita.com/corekaraweb/items/5c6f90b138adb7898f70)
 
