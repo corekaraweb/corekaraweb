@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=corekaraweb" />
 </div>
-<script async src="https://hideki-murakami.pro/cgi-bin/lunalys3/analyzer/tracker.js" id="lunalys" data-site="1"></script>
+
 # らぐち
 
 **Web系エンジニア（WordPress & SEO）**
