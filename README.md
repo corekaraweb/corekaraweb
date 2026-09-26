@@ -89,5 +89,5 @@
 | その他 | 心理学検定2級<br>カラーコーディネーター3級<br>フォトマスター検定2級<br>|
 
 <span style="visibility: hidden; position: absolute; top: 0; left: 0;">
-<img src="https://hideki-murakami.pro/cgi-bin/lunalys3/analyzer/tracker.php?act=img&site=2" width="1" height="1" alt="tracker">
+<img src="https://hideki-murakami.pro/cgi-bin/lunalys3/analyzer/tracker.php?act=img&site=1" width="1" height="1" alt="tracker">
 </span>
