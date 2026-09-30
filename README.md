@@ -23,7 +23,7 @@
 - 🖥️ Web系プログラミング言語やサーバーサイドの技術など幅広く探求中
 - 🗝️ テクノロジーの力で社会課題を解決することに興味があります
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
-- 🖋 [最新の勉強ログ(2026.09)](https://github.com/corekaraweb/study-log/blob/main/202609studylog.md)
+- 🖋 [最新の勉強ログ(2026.10)](https://github.com/corekaraweb/study-log/blob/main/202610studylog.md)
   
 <br>
 
