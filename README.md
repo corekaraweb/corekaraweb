@@ -4,24 +4,24 @@
 
 # らぐち
 
-**Web系エンジニア（WordPress & SEO）**
+**ITエンジニア 🦖 Java・AWS・Frontend**
 
 [![Email](https://img.shields.io/badge/Mail-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)
+[![X](https://img.shields.io/badge/x-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb)
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
-
-
 
 ---
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🧑‍💻 WordPress・SEOをメインとしたWeb系エンジニア
-- 🖥️ Web系プログラミング言語やサーバーサイドの技術など幅広く探求中
-- 🗝️ テクノロジーの力で社会課題を解決することに興味があります
+- 🧑‍💻 フロントエンドからサーバーサイドまで幅広く対応できるITエンジニア
+- 🖥️ 社会福祉・ソーシャルワーク・心理学などのついても知見があります
+- 🗝️ テクノロジーの力で社会課題を解決することが人生の目標です
+- 🐥 [X（旧Twitter）](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
 - 🖋 [最新の勉強ログ(2026.10)](https://github.com/corekaraweb/study-log/blob/main/202610studylog.md)
   
