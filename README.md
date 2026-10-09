@@ -19,7 +19,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 フロントエンドからサーバーサイドまで幅広く対応できるITエンジニア
-- 🖥️ 社会福祉・ソーシャルワーク・心理学などについても知見があります
+- 🖥️ 情報セキュリティ・社会福祉・ソーシャルワーク・心理学などについても知見があります
 - 🗝️ テクノロジーの力で社会課題を解決することが人生の目標です
 - 🐥 [X（旧Twitter）](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
