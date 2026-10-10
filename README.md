@@ -23,7 +23,6 @@
 - 🗝️ テクノロジーの力で社会課題を解決することが人生の目標です
 - 🐥 [X（旧Twitter）](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
-- 🖋 [最新の勉強ログ(2026.10)](https://github.com/corekaraweb/study-log/blob/main/202610studylog.md)
   
 <br>
 
