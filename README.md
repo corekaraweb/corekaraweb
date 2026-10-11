@@ -4,7 +4,7 @@
 
 # らぐち（村上英輝）
 
-**ITエンジニア 🦖 React・TypeScript・Laravel・Java・AWS**
+**ITエンジニア 🦖 WordPress・SEO・React・TypeScript・Laravel・Java・AWS**
 
 [![Email](https://img.shields.io/badge/Mail-corekaraweb@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:corekaraweb@gmail.com)
 [![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)<br>
