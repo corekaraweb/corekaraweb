@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=corekaraweb" />
 </div>
 
-# らぐち
+# らぐち（村上英輝）
 
 **ITエンジニア 🦖 Java・AWS・Frontend**
 
