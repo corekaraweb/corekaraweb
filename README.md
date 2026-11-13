@@ -58,7 +58,7 @@
 ---
 
 ## 📝Zenn New Articles（技術情報のまとめ）
-- 【2026年11月13日】[AWS SAA 受験してきた](https://zenn.dev/corekaraweb/articles/9289fa870de4cb)
+- 【2026年11月13日】[AWS SAAを受験してきた](https://zenn.dev/corekaraweb/articles/9289fa870de4cb)
 - 【2026年11月07日】[Googleフォントをローカルホスティングする方法](https://zenn.dev/corekaraweb/articles/15e5273d28bd5f)
 - 【2026年10月11日】[nginxへのアクセスを日本国内のIPアドレスに制限する方法](https://zenn.dev/corekaraweb/articles/09e950c6cebb26)
 - 【2026年09月07日】[Java Gold SE17を受験してきた](https://zenn.dev/corekaraweb/articles/d2576a68e7b95a)
