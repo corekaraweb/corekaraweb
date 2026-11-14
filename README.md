@@ -21,6 +21,7 @@
 - 🧑‍💻 フロントエンドがメインでサーバーサイドも少しできるITエンジニア
 - 🖥️ 情報セキュリティ・社会福祉・ソーシャルワーク・心理学なども興味あり
 - 🗝️ テクノロジーの力で社会課題を解決することが人生の目標です
+- 🏫 立命館大学理工学部物理学科 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - 🐥 [X（旧Twitter）](https://x.com/corekaraweb)
 - 💡 [Lapras Profile](https://lapras.com/public/GHGANBH)
   
@@ -70,7 +71,6 @@
 - 【2025年12月18日】[2025年にSalesforce関係で学んだこと](https://zenn.dev/corekaraweb/articles/9a8ad400bfcd8f)
 - 【2025年07月31日】[実務未経験からSalesforceエンジニアを目指す記録を始めます](https://zenn.dev/corekaraweb/articles/83a6cac7da676e)
 -->
-
 <!--
 ---
 ## 📈公開中リポジトリ
