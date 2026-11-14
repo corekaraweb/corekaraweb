@@ -37,12 +37,12 @@
 ## 🏃‍♀️ Activities
 <!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
 <div align="left">
-<img style="width:88%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
-<div style="width:88%; display:flex; justify-content:space-between;">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
-<img style="width:44%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
+<img style="width:92%;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corekaraweb&theme=holi">
+<div style="width:92%; display:flex; justify-content:space-between;">
+<img style="width:46%;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=corekaraweb&theme=holi">
+<img style="width:46%;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corekaraweb&theme=holi">
+<img style="width:46%;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corekaraweb&theme=holi">
+<img style="width:46%;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=corekaraweb&theme=holi&utcOffset=9">
 </div>
 </div>
 
