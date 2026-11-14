@@ -10,6 +10,7 @@
 [![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)<br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)
 [![X](https://img.shields.io/badge/x-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb)
+[![X](https://img.shields.io/badge/faceboook-HidekiMurakami?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hideki.d.murakami/)
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
@@ -24,7 +25,7 @@
 - 🗝️ テクノロジーの力で社会課題を解決することが人生の目標です
 - 🏫 立命館大学理工学部物理学科 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - 👩‍🦯‍➡️ 京都医療福祉専門学校 社会福祉士科 一般養成課程 修了
-- 🐥 [X（旧Twitter）](https://x.com/corekaraweb)　 [Lapras Profile](https://lapras.com/public/GHGANBH)
+- ⭐[X（旧Twitter）](https://x.com/corekaraweb)　🔔[Facebook](https://www.facebook.com/hideki.d.murakami/)　🏆[Lapras Profile](https://lapras.com/public/GHGANBH)
   
 <br>
 
