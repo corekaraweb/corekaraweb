@@ -23,13 +23,9 @@
 - 👩‍🦯‍➡️ 京都医療福祉専門学校 社会福祉士科 一般養成課程 修了
 - ⭐[X（旧Twitter）](https://x.com/corekaraweb)　🔔[Facebook](https://www.facebook.com/hideki.d.murakami/)　🏆[Lapras Profile](https://lapras.com/public/GHGANBH)
 
----
-
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=11&i=wordpress,html,css,sass,js,java,figma,ps,ai,github,git,gmail,linux,mysql,nodejs,vscode,docker,aws,laravel,ts,ubuntu,windows" />
-
----
 
 ## 🏃‍♀️ Activities
 <!-- https://github.com/marketplace/actions/github-profile-summary-cards -->
