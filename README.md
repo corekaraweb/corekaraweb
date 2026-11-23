@@ -21,7 +21,7 @@
 - 💾 個人開発・競技プログラミングの成果物をリポジトリで管理しています（整理中）
 - 🏫 立命館大学理工学部物理学科 ⇒ 放送大学 社会と産業卒 ⇒ 生活と福祉卒 ⇒ 心理と教育
 - 👩‍🦯‍➡️ 京都医療福祉専門学校 社会福祉士科 一般養成課程 修了
-- ⭐[X（旧Twitter）](https://x.com/corekaraweb)　🔔[Facebook](https://www.facebook.com/hideki.d.murakami/)　🏆[Lapras Profile](https://lapras.com/public/GHGANBH) 　📚[Study-log](https://github.com/corekaraweb/study-log)
+- 🏆[Lapras Profile](https://lapras.com/public/GHGANBH) 　📚[Study-log](https://github.com/corekaraweb/study-log)
 
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
