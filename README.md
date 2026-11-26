@@ -7,11 +7,13 @@
 
 [![WebSite](https://img.shields.io/badge/WebSite-corekara--web.net-blue?style=for-the-badge&logo=wordpress&logoColor=white)](https://corekara-web.net/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Hideki--Murakami.pro-blue?style=for-the-badge&logo=react&logoColor=white)](https://hideki-murakami.pro/)<br>
+<!--
 [![X](https://img.shields.io/badge/x-corekaraweb?style=for-the-badge&logo=x&logoColor=white)](https://x.com/corekaraweb)
 [![Facebook](https://img.shields.io/badge/faceboook-HidekiMurakami?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hideki.d.murakami/)
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
+-->
 <!--[![Instagram](https://img.shields.io/badge/instagram-corekaraweb?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/corekaraweb/)-->
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
