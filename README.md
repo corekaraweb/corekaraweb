@@ -12,7 +12,7 @@
 [![Zenn](https://img.shields.io/badge/Zenn-corekaraweb?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/corekaraweb)
 [![Qiita](https://img.shields.io/badge/Qiita-corekaraweb?style=for-the-badge&logo=Qiita&logoColor=white)](https://qiita.com/corekaraweb)
 [![note](https://img.shields.io/badge/note-corekaraweb?style=for-the-badge&logo=note&logoColor=white)](https://note.com/corekaraweb)
-[![Instagram](https://img.shields.io/badge/instagram-corekaraweb?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/corekaraweb/)
+[![Instagram](https://img.shields.io/badge/instagram-corekaraweb?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/corekaraweb/)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
